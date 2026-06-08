@@ -4,7 +4,6 @@ A persona-based AI chatbot built with Streamlit and Groq API. Users can chat wit
 
 ## Live Demo
 
-Add your deployed app link here:
 - https://persona-chatbot-web.streamlit.app/
 
 ## Features
